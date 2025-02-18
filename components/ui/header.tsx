@@ -12,6 +12,9 @@ export default function Header() {
           <div className="flex flex-1 items-center">
             <Logo />
           </div>
+          <div className="flex flex-1 items-center">
+             Deep Core Technology
+          </div>
 
           {/* Desktop sign in links */}
           <ul className="flex flex-1 items-center justify-end gap-3">
